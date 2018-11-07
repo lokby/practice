@@ -1,1 +1,3 @@
-I am lokby
+<<<<<<< HEAD
+Hey what's up GG
+>>>>>>> ba0e2f173c51e3d1cb92e3b849f57d551c8151c2
